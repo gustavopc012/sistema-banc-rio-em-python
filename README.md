@@ -1,3 +1,3 @@
-### Esqueleto de um sistema bancário
+### Desafios DIO com Sistemas Bancários.
 
-- Projeto proposto num bootcamp na DIO, feito em Python.
+- Projetos proposto num bootcamp na DIO, feito em Python.
